@@ -30,7 +30,7 @@ def is_requirement(line):
 
 setup(
     name='edx-search',
-    version='3.0.0.1',
+    version='3.0.0.2',
     description='Search and index routines for index access',
     author='edX',
     author_email='oscm@edx.org',
